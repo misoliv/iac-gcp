@@ -1,7 +1,4 @@
-# iac-gcp
-
-iac-gcp
-Infraestrutura como Código com Terraform.
+# Infraestrutura como Código com Terraform.
 
 Para este projeto, foram usados as seguintes tecnologias:
 
