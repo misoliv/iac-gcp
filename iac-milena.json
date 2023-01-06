@@ -1,12 +1,11 @@
 {
     "type": "service_account",
     "project_id": "iac-milena",
-    "private_key_id": "16d44d1a7facb976ea9a7f791f674e81bc496667",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMIGu1PCZ6SIB/\nny9xVMhDKd1/dWFrjJqa8J3J26QFDkiL6XElxFTTGgQhZdQtNoYDKyJoNnw+7wtl\nRTJiKXuaDIvl3y6ChKg0Mk4+Qk1AkrwqUtorouWSdxLVWK0QuyHBvf5O7ihDNpeQ\nMk5CR9ftevnFU/L6g1fJBrMKSyI7fN9mt/Si1q2RvZ07P3+JUEaEOHMeIewPMhR9\nJLBCN79YrVQ78goWN3e1spinp3efPoT/FvFUvDw0ORFFcKvw8xuSbstcAjtGrNJ/\nyahzHMrI+EJpwU3oWUaiqlaC12BKbv910HqYDoGh0pSIKv5dgodP3j1o2XbdnebR\njyS6aUd5AgMBAAECggEARYFum3YhVfcVBh/CjFEFpdT+DnX+F5x3UnXHDKJk7bHI\n4xc4h1ccWQtdR7AAOOr9Y9vOqfSPhvBnjXKr7r/YTgKiqkG9+QRJsAhHGy0BWBD+\n0FyI3F3p1N8Fwy6gM3e8zVcv3ll6zTQsFJYEjs4eyMbcgKQOst2BSTqmQUWHIQDO\n88Dpp9gkRxbFr+AzyQSgysWngUVsb8MVuhkC///yHuVkQjUivkkpJ//qX0HMA9Nb\nxcER6fWAnrrxxd0a7VnLpVHIsA9XN/2Pi8jqit2umikzoXxGy2Eaw6Ri416rbBY3\nm7ujFGm6yjpWF6Q1NVG9A38Rd8+V6tcMxZcj6ZjjtwKBgQDmyHnzaUk7ZoeSD15h\nX/HQbvPoV+OVxMnWUro/XrvPNdwAit1q5AOsxKSmik87ji4VizHvFttZvTzU0r2L\nQumVXYUsVBnqv3FfaNFUPaxhIkqAGk0BVwYzu0d844voMWy2X0xG4ZAhVaqhCYcM\nAYdJzuk0QgTedXs9bA+JWk/s7wKBgQDibk2LYJfyccA8b4BePx1oFqx05f+W5Gkn\nrEwbuLNUFhbrSoGZZ1o8TfhJ045Jb4lLvsvKrW/42XQCBi1s+U6i7NX1WMuOo4Y6\nd2oOnI6Vgn+wwxSBhpIgkGHFeYjYjM9Uv+mh6qWYmJduToqPrZwlc0gjYimHwCFt\nXNmF8vDiFwKBgQCqA5aTk0S31diZ6WiGI8Bo5NQanmSyuL5Yfalndcq149+nJqXn\nUQLEDDmf1tR3805P4LNwh04g1iAySO4J4clil/q7pVlSbqZ+uyE7BhQvmqt3o+iG\nzC1tftIzVw6Ch6am053FufYMGKgS6onqdlXMMfnq3ZfoqnOX1Du93CJ1UQKBgQDQ\nGT2tNaYQDJj3MiaQ94KIMiZm/SZsQBmge4orBBHT2sVPk1cObF0TBTmGaCbhuN8+\nvOhAqis5Umh6n8DJ4UpzFCUDaosR2Zm4TB0ttpaYM6o1AuTqsYnE4czpl2u8UZUO\nt5350FRGrR6nIwnXSGA0TwHiewneGCbggq/rmj3mGwKBgEZg+53mUFIh6xsCPHy4\npyfhbtZbLt1SN976cJoqYsZjIs58a5np+/lyFRwBfnGzKslmzngXBdgdBPlhVK5F\nbYnnpFZhTst+R2Eqz4pCqjUKbA68O9WeQl3ca72GYgsSqu4ESG6i2EUQX8ahnroY\n19OFwq57YqpfCVgrqvAQwb1x\n-----END PRIVATE KEY-----\n",
-    "client_email": "test-755@iac-milena.iam.gserviceaccount.com",
-    "client_id": "104714313218112451313",
+    "private_key_id": "xxxxxxxxxxxxxxxxxx",
+    "private_key": "-----BEGIN PRIVATE KEY-----\",
+    "client_id": "xxxxxxxxxxxxxxxx",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-755%40iac-milena.iam.gserviceaccount.com"
+    "client_x509_cert_url": ""
   }
